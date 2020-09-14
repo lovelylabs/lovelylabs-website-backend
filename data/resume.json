@@ -1,0 +1,29 @@
+{
+  "name": "Alexander Guerra",
+  "jobTitle": "Software Developer",
+  "contactInfo": {
+    "phoneNumber": "2102166867",
+    "linkedInUrl": "https://www.linkedin.com/in/alexanderaguerra/",
+    "emailAddress": "alexander.a.guerra@gmail.com",
+    "address": "10919 Mt. Boracho Dr.\nUnit C\nSan Antonio, TX 78213"
+  },
+  "education": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Bachelor of Engineering",
+      "dates": {
+        "city": "Cambridge, MA",
+        "startDate": "2005",
+        "endDate": "2009"
+      }
+    }
+  ],
+  "employmentHistory": [
+    
+  ],
+  "skills": [
+    "Javascript",
+    "React",
+    "Redux"
+  ]
+}
